@@ -1,0 +1,9 @@
+D:\C#\UnadOOP\UnadOOP\bin\Debug\UnadOOP.exe.config
+D:\C#\UnadOOP\UnadOOP\bin\Debug\UnadOOP.exe
+D:\C#\UnadOOP\UnadOOP\bin\Debug\UnadOOP.pdb
+D:\C#\UnadOOP\UnadOOP\obj\Debug\UnadOOP.csprojResolveAssemblyReference.cache
+D:\C#\UnadOOP\UnadOOP\obj\Debug\UnadOOP.exe
+D:\C#\UnadOOP\UnadOOP\obj\Debug\UnadOOP.pdb
+D:\C#\CajeroElectronico\UnadOOP\bin\Debug\UnadOOP.exe.config
+D:\C#\CajeroElectronico\UnadOOP\obj\Debug\UnadOOP.exe
+D:\C#\CajeroElectronico\UnadOOP\obj\Debug\UnadOOP.pdb
